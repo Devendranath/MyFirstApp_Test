@@ -72,8 +72,8 @@
                                     <action selector="resetAction:" destination="BYZ-38-t0r" eventType="touchUpInside" id="pjp-WE-lbp"/>
                                 </connections>
                             </button>
-                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="buZ-0m-bzN">
-                                <rect key="frame" x="162.5" y="328.5" width="50" height="30"/>
+                            <button opaque="NO" contentMode="scaleToFill" misplaced="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="buZ-0m-bzN">
+                                <rect key="frame" x="162.5" y="329.5" width="50" height="30"/>
                                 <state key="normal" title="Display"/>
                                 <connections>
                                     <action selector="displayAllUsers" destination="BYZ-38-t0r" eventType="touchUpInside" id="yZU-P5-kNG"/>
